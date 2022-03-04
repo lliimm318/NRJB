@@ -1,4 +1,4 @@
-package com.nrjb.nrjb;
+package com.nrjb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
