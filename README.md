@@ -76,7 +76,7 @@ src
 
 ## 개발팀 소개
 
-**임서영** (githun link)
+[임서영](https://github.com/lliimm318)
 
 Designer - Adobe XD, photoshop 
 
